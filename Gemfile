@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'sinatra'
+gem 'sinatra', require: 'sinatra'
 gem 'mongoid'
 gem 'rspec'
 
